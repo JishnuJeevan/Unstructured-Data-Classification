@@ -1,5 +1,5 @@
 # Unstructured-Data-Classification
-Machine Learning assignment done during first semester of M.Tech. The obective of the assignemnt is given below. All the steps used in the assignment is given in the `Unstructured_Data_Classification.ipynb` note book file.
+Machine Learning assignment done during first semester of M.Tech. The obective of the assignemnt is given below. All the steps used in the assignment is given in the `Unstructured_Data_Classification.ipynb` note book file. The `Unstructured_Data_Classification.ipynb` can be opend using Jupyter Notebook.
 <h2><center> Assignemt Objective</center></h2>
 <p style='text-align: justify;'>
 These 30 scientific articles come from three different domains:<br>
